@@ -18,6 +18,7 @@ public class PortfolioTester {
 		p.setUp();
 		System.out.println(p.testMarketValue()?"pass":"fail");
 		System.out.println("ok");
+		System.out.println("methods use in mockito");
 
 	}
 
